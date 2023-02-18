@@ -1,5 +1,5 @@
 # Comic Buffs
-An app utilising GIPHY API alongside Marvel Devloper API, to generate funny GIFs alongside comics which the user has searched for. All displayed in a UI which represents the MU theme.
+An app utilising GIPHY API alongside Marvel Developer API, to generate funny GIFs alongside comics which the user has searched for. All displayed in a UI which represents the MU theme.
 
 ## Table of Contents 
 
