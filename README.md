@@ -1,16 +1,14 @@
 # Comic Buffs
-Project 1 of the Front End Web Develoment coding bootcamp in partnership with EdX
-
-
+An app utilising GIPHY API alongside Marvel Devloper API, to generate funny GIFs alongside comics which the user has searched for. All displayed in a UI which represents the MU theme.
 
 ## Table of Contents 
 
 - [User Story](#User-Story)
 - [Grading Requirements](#Grading-Requirements)
-- [Usage](#usage)
+- [Usage](#Usage)
 - [Deployed Page](#Deployed-Page)
 - [Credits](#Authors)
-- [License](#license)
+- [License](#License)
 
 
 ## User-Story
@@ -102,8 +100,6 @@ https://nnavickas.github.io/Project-MovieBuffs/
 
 ---
 ## Acknowledgments
-
-* Thanks for the support Sandy
 
 ---
 ## License
